@@ -4,8 +4,9 @@
 ###### We are from C23-PC610 Bangkit 2023 Project-based Capstone. Here, we develop a Application for education health using a Machine Learning model. We package that model into an Android application. We also create an API to implement our ML model.
 Our Team:
 * [Husni Adam Ramadhan](https://github.com/husniadamramadhan) CC ☁️.
+* [Darren Andereas Nurachmad](https://github.com/andereasdarren12) CC ☁️.
+* [Toni Liungan](https://github.com/RazorTetra) ML 🖥️.
 * 
-
 <!--
 
 **Here are some ideas to get you started:**
