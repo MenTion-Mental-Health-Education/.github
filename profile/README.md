@@ -6,7 +6,7 @@ Our Team:
 * [Husni Adam Ramadhan](https://github.com/husniadamramadhan) - CC ☁️.
 * [Darren Andereas Nurachmad](https://github.com/andereasdarren12) - CC ☁️.
 * [Toni Liungan](https://github.com/RazorTetra) - ML 🖥️.
-* Tengku Arya Purangga - ML 🖥️.
+* [Tengku Arya Purangga](https://github.com/aryapurangga) - ML 🖥️.
 * Marcelino Bitra - ML 🖥️.
 * [Nurul Afifah Muthoharoh](https://github.com/nurulafifahmuthoharoh) - MD 📱.
 <!--
