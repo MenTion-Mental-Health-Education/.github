@@ -8,7 +8,7 @@ Our Team:
 * [Toni Liungan](https://github.com/RazorTetra) - ML 🖥️.
 * Tengku Arya Purangga - ML 🖥️.
 * Marcelino Bitra - ML 🖥️.
-* Nurul Afifah Muthoharoh - MD 📱.
+* [Nurul Afifah Muthoharoh](https://github.com/nurulafifahmuthoharoh) - MD 📱.
 <!--
 
 **Here are some ideas to get you started:**
